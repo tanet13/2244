@@ -1,6 +1,14 @@
 .box{
-   font-size: 30px ;
-   background-color: rgb(26, 71, 71);
+   background-color: rgb(16, 124, 124);
     padding: 20px;
     margin: 20px;
+}
+.main-content{
+    max-width: 700px;
+    margin: auto;
+}
+footer{
+    background-color: rgb(26, 71, 71); 
+    padding: 20px;
+    text-align: center;  
 }
