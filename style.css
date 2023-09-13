@@ -2,7 +2,11 @@
     background-color: rgb(26, 71, 71);
     padding: 20px;
     text-align: center; 
+
     
+}
+img{
+    width: 100%;
 }
 .box{
    background-color: rgb(16, 124, 124);
