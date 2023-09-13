@@ -1,5 +1,6 @@
-p{
+.box{
    font-size: 30px ;
+   background-color: rgb(26, 71, 71);
+    padding: 20px;
+    margin: 20px;
 }
-    
-
